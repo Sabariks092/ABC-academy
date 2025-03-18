@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(255,99,231);
+    height: 85vh;
+    border-bottom-right-radius: 20px;
+    padding: 20px ;
+    width: 100%;
+}
+
+.container{
+    background-image: linear-gradient(rgba(0, 0,0, 0.7),rgba(0, 0, 0,0.7)),url('../assets/course.webp');
+    height: 450px;
+    background-size: cover;
+    background-position: center; 
+    align-items: center;
+    background-repeat: no-repeat; 
+    border-radius: 30px;
+}
+
+.course-btn{
+    padding:10px;
+    background-color:rgb(255,94,233) ;
+    color: aliceblue;
+    width: 130px;
+    border-radius: 20px;
+}
+.demo-btn{
+    padding: 10px;
+    background-color:rgb(255, 255, 255) ;
+    color: rgb(45, 45, 46);
+    border-radius: 20px;
+    text-decoration: none;
+}
+
