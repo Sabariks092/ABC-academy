@@ -9,7 +9,7 @@
 }
 
 .container{
-    background-image: linear-gradient(rgba(0, 0,0, 0.7),rgba(0, 0, 0,0.7)),url('../assets/course.webp');
+    background-image: linear-gradient(rgba(0, 0,0, 0.7),rgba(0, 0, 0,0.7)),url('../assets/course.jpg');
     height: 450px;
     background-size: cover;
     background-position: center; 

@@ -1,5 +1,4 @@
 import React from 'react';
-import "../assets/course.webp"
 import "../assets/Banner.png"
 import "../Components/header.css"
 export const Header = () => {
