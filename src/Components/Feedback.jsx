@@ -30,13 +30,13 @@ const Feedback = () => {
 
   return (
     <>
-      <div className="row ms-3 mt-5">
+      <div className="row d-flex justify-content-center p-3 mt-5">
+      <h3 className="ms-3 mb-4">Contact Us</h3>
         <div className="col-md-6">
-          <h3 className="ms-3 mb-4">Contact Us</h3>
           <img style={{width:"100%",borderRadius:"50px"}} src="src/assets/course.webp" alt="" />
-          <p className="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex nesciunt fugit temporibus. Dicta delectus odit doloribus similique nulla laudantium amet magni illum facere eligendi quas facilis obcaecati eveniet, commodi earum!</p>
+          <p className="text-center my-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex nesciunt fugit temporibus. Dicta delectus odit doloribus similique nulla laudantium amet magni illum facere eligendi quas facilis obcaecati eveniet, commodi earum!</p>
         </div>
-        <div className="col-md-6 mt-4">
+        <div className="col-md-6">
           <div className="mx-auto row " style={styles.container}>
             <p className="text-white" style={styles.text}>
               Feel Free to Reach out! Our Team will get back to you.
@@ -87,6 +87,7 @@ const Feedback = () => {
             )}
           </div>
         </div>
+        <hr className="mt-4" />
       </div>
     </>
   );

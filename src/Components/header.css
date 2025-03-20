@@ -1,9 +1,12 @@
 .header{
     background-color: rgb(255,99,231);
-    height: 85vh;
+    height: auto;
     border-bottom-right-radius: 20px;
     padding: 20px ;
+    padding-bottom: 70px;
+    padding-top: 70px;
     width: 100%;
+    margin-top: 70px;
 }
 
 .container{

@@ -1,4 +1,9 @@
 .navbar {
-    border-bottom-left-radius: 30px;
-    border-bottom-right-radius: 30px;
-}
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto; 
+    background-color: #333;
+    z-index: 1000; /* Ensure it stays on top */
+  }

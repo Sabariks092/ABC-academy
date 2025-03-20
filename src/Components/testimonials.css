@@ -1,0 +1,37 @@
+.slick-dots {
+    position: relative;
+    bottom: -15px;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .slick-dots li button:before {
+    font-size: 15px;
+    color: gray;
+    opacity: 0.5;
+    transition: color 0.3s, transform 0.3s;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: rgb(255,99,231);
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  
+  .slick-dots li button:hover:before {
+    color: #242222;
+    opacity: 0.8;
+    transform: scale(1.1);
+  }
+
+  .slick-prev, .slick-next {
+    color: black;
+    font-size: 24px;
+    z-index: 1;
+}
+.slick-prev:hover, .slick-next:hover {
+    color: #ffebeb;
+}
+
+  
