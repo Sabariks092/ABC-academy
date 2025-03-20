@@ -13,7 +13,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 1</h5>
-                                <img className='rounded-3 d-block mx-auto mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 d-block mx-auto mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <div className='mb-2'>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
@@ -29,7 +29,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 2</h5>
-                                <img className='rounded-3 d-block mx-aut mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 d-block mx-aut mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <div className='mb-2'>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
@@ -45,7 +45,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 3</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <div className='mb-2'>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
@@ -59,7 +59,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 4</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
                                 <a href="#" className="btn btn-dark"> Request Call Demo</a>
@@ -72,7 +72,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 5</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
                                 <a href="#" className="btn btn-dark"> Request Call Demo</a>
@@ -83,7 +83,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 6</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
                                 <a href="#" className="btn btn-dark"> Request Call Demo</a>
@@ -94,7 +94,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 7</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
                                 <a href="#" className="btn btn-dark"> Request Call Demo</a>
@@ -105,7 +105,7 @@ export const Courses = () => {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title">Course 8</h5>
-                                <img className='rounded-3 mb-2' src="src/assets/course.webp" height={100} alt="" />
+                                <img className='rounded-3 mb-2' src="src/assets/course.jpg" height={100} alt="" />
                                 <p className="card-text">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="#" style={{color:"rgb(255,99,231)"}} className="btn mb-2"> <strong>Read More</strong></a>
                                 <a href="#" className="btn btn-dark"> Request Call Demo</a>
