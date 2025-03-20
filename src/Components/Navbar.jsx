@@ -1,11 +1,10 @@
 import React from 'react'
 import "bootstrap/dist/js/bootstrap.min.js";
-import "../Components/navbar.css"
 
 export const Navbar = () => {
     return (
         <div>
-            <nav style={{backgroundColor:"black",width:"100%",boxShadow:"2px 2px 8px black",position:"fixed"}}className="navbar pt-3 d-flex align-items-center navbar-expand-lg pb-2 text-white">
+            <nav style={{backgroundColor:"black",width:"100%",boxShadow:"2px 2px 8px black"}}className="navbar pt-3 d-flex align-items-center navbar-expand-lg pb-2 text-white">
                 <div className="container-fluid ">
                     <a className="navbar-brand pb-2 ms-5" href='#' style={{color:"white",fontSize:"25px"}}><strong>ABC Academy</strong></a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
